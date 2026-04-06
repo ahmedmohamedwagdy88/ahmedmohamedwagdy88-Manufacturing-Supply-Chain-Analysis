@@ -6,8 +6,7 @@ This project analyzes manufacturing and supply chain performance to identify ine
 ## 📂 Project Structure
 - **data/** → contains the dataset used for analysis  
 - **notebook/** → Jupyter Notebook with data cleaning, exploration & visualization  
-- **images/** → screenshots of dashboards and visualizations  
-- **dashborad.png** → visual summary of analysis results  
+- **images/** → dashboard screenshots  
 - **case_study.pdf** → detailed case documentation
 
 ## 🛠 Tools Used
@@ -15,10 +14,15 @@ This project analyzes manufacturing and supply chain performance to identify ine
 - **Jupyter Notebook**  
 - **Tableau / Excel** (for visualizations)  
 
-## 📈 Dashboard
-Here’s a quick snapshot from the analysis:
+## 📈 Dashboards
 
-![Dashboard](dashborad.png)
+Click on images to view full size:
+
+| Supply Chain Dashboard | Supply Chain Manufacturing |
+|-----------------------|---------------------------|
+| [![Supply Chain Dashboard](images/supply_chain_dashboard.png)](images/supply_chain_dashboard.png) | [![Supply Chain Manufacturing](images/supply_chain_manufacturing.png)](images/supply_chain_manufacturing.png) |
+
+> Now you can see both dashboards at a glance and click any image to enlarge.
 
 ## 🔍 Analysis & Key Insights
 This analysis includes:
@@ -33,8 +37,8 @@ This analysis includes:
 - **Cosmetics** category stands out as more **efficient** compared to others
 
 ## 📄 Notebook & Case Study
-- **Notebook**: [Open Notebook](notebook/supply_chain_analysis_.ipynb)  
-- **Case Study PDF**: [View Case Study](Case_Study.pdf/Manufacturing_Case_Study.pdf)
+- **Notebook**: [Open Notebook](notebook/analysis.ipynb)  
+- **Case Study PDF**: [View Case Study](case_study.pdf)
 
 The notebook contains step-by-step analysis including data loading, cleaning, feature summarization, and visualization. The PDF provides a complete report for stakeholders.
 
