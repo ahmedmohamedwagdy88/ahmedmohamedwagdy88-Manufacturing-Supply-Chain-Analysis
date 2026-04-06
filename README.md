@@ -31,10 +31,11 @@ This analysis includes:
 - Visual insights about supplier performance, cost, and quality  
 
 ### 💡 Key Insights  
-- Supplier 4** has ~17% higher cost compared to others  
-- Supplier 3** shows ~3% defect rate (above average 2.28%)  
-- [Skincare] contributes to ~47% of total cost  
-- [Cosmetics] is ~91% more efficient than others
+- Supplier 4 has approximately **15–20% higher cost** compared to other suppliers  
+- Supplier 3 shows a **defect rate of ~18%**, higher than the overall average (~12%)  
+- Skincare products contribute to around **35–40% of total cost**, making them the most expensive category  
+- Cosmetics category demonstrates approximately **10–15% better cost efficiency** compared to other product types
+- Supplier 4 contributes to approximately **30–35% of total supply volume**
   
 ## 📄 Notebook & Case Study
 - **Notebook**: [Open Notebook](notebook/supply_chain_analysis_.ipynb)  
@@ -49,10 +50,13 @@ The notebook contains step-by-step analysis including data loading, cleaning, fe
 
   
 ## 💼 Business Impact
-This project helps:
-- Reduce operational costs
-- Improve supplier selection
-- Enhance product quality
+
+This analysis can help businesses to:
+
+- Reduce operational costs by identifying high-cost suppliers  
+- Improve supplier selection based on performance and quality  
+- Enhance product quality by addressing high defect rates  
+- Optimize product strategy based on cost distribution across categories  
 
 ## 🙍‍♂️ Author
 **Ahmed Wagdy**  
