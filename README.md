@@ -34,7 +34,7 @@ This analysis includes:
 
 ## 📄 Notebook & Case Study
 - **Notebook**: [Open Notebook](notebook/analysis.ipynb)  
-- **Case Study PDF**: [View Case Study](case study.pdf)
+- **Case Study PDF**: [View Case Study](case study.pdf/Manufacturing_Case_Study.pdf)
 
 The notebook contains step-by-step analysis including data loading, cleaning, feature summarization, and visualization. The PDF provides a complete report for stakeholders.
 
