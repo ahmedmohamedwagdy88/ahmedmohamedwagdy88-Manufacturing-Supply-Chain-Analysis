@@ -31,10 +31,10 @@ This analysis includes:
 - Visual insights about supplier performance, cost, and quality  
 
 ### 💡 Key Insights  
-- Supplier 4** has ~__% higher cost compared to others  
-- Supplier 3** shows ~__% defect rate (above average __%)  
-- [Skincare] contributes to ~__% of total cost  
-- [Cosmetics] is ~__% more efficient than others
+- Supplier 4** has ~17% higher cost compared to others  
+- Supplier 3** shows ~3% defect rate (above average 2.28%)  
+- [Skincare] contributes to ~47% of total cost  
+- [Cosmetics] is ~91% more efficient than others
   
 ## 📄 Notebook & Case Study
 - **Notebook**: [Open Notebook](notebook/supply_chain_analysis_.ipynb)  
