@@ -1,18 +1,19 @@
 # 📊 Manufacturing & Supply Chain Analysis
 
 ## 🧠 Overview
-This project analyzes manufacturing and supply chain performance to identify inefficiencies and support better decision-making through data-driven insights. The analysis provides key insights about suppliers, costs, quality, and performance metrics.
+This project analyzes manufacturing and supply chain performance to identify inefficiencies and support data-driven decision-making. The analysis provides insights about suppliers, costs, quality, and overall supply chain efficiency.
 
 ## 📂 Project Structure
 - **data/** → contains the dataset used for analysis  
 - **notebook/** → Jupyter Notebook with data cleaning, exploration & visualization  
+- **images/** → screenshots of dashboards and visualizations  
 - **dashborad.png** → visual summary of analysis results  
-- **case study.pdf** → detailed case documentation
+- **case_study.pdf** → detailed case documentation
 
 ## 🛠 Tools Used
 - **Python** (Pandas, Matplotlib, Seaborn)  
 - **Jupyter Notebook**  
-- Visualizations exported as images  
+- **Tableau / Excel** (for visualizations)  
 
 ## 📈 Dashboard
 Here’s a quick snapshot from the analysis:
@@ -31,21 +32,17 @@ This analysis includes:
 - Skincare products show **highest overall cost**  
 - **Cosmetics** category stands out as more **efficient** compared to others
 
-## 📄 Notebook
-The detailed steps of analysis are inside the notebook:
+## 📄 Notebook & Case Study
+- **Notebook**: [Open Notebook](notebook/analysis.ipynb)  
+- **Case Study PDF**: [View Case Study](case_study.pdf)
 
-👉 [Open Notebook](notebook)
+The notebook contains step-by-step analysis including data loading, cleaning, feature summarization, and visualization. The PDF provides a complete report for stakeholders.
 
-The notebook includes:
-1. Loading and inspecting the dataset  
-2. Data cleaning  
-3. Feature summarization  
-4. Visualization and interpretation
-
-## 🎯 Recommendations (From Analysis)
-- Optimize the supplier selection process  
-- Implement strategies to reduce cost  
-- Address quality control issues for certain suppliers
+## 🎯 Recommendations
+- Optimize supplier selection  
+- Implement cost reduction strategies  
+- Improve quality control for certain suppliers
 
 ## 🙍‍♂️ Author
-This project was completed by **Ahmed Wagdi**
+**Ahmed Wagdi**  
+Data Analyst | Supply Chain Analysis
