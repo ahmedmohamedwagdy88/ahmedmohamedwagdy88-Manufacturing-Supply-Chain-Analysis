@@ -13,7 +13,7 @@ This project analyzes manufacturing and supply chain performance to identify ine
 ---
 
 ## 📊 Dashboard
-![Dashboard](dashboard.png)
+![Dashboard](supply chain dash borad.png)(supply chain manufactring.png)
 
 ---
 
