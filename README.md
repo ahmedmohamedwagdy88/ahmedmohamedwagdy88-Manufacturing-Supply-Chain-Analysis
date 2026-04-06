@@ -1,7 +1,7 @@
 # 📊 Manufacturing & Supply Chain Analysis
 
 ## 🧠 Overview
-This project analyzes manufacturing and supply chain performance to identify inefficiencies and support data-driven decision-making. The analysis provides insights about suppliers, costs, quality, and overall supply chain efficiency.
+🚀 This project explores manufacturing and supply chain performance to identify cost drivers, supplier efficiency, and quality issues using data-driven analysis.
 
 ## 📂 Project Structure
 - **data/** → contains the dataset used for analysis  
