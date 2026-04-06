@@ -20,7 +20,7 @@ Click on images to view full size:
 
 | Supply Chain Dashboard | Supply Chain Manufacturing |
 |-----------------------|---------------------------|
-| [![Supply Chain Dashboard](images/supply_chain.png)](images/supply_chain.png) |[![Supply Chain Manufacturing](images/manufactring.png)|
+| [![Supply_Chain_Dashboard](images/supply_chain.png)](images/supply_chain.png) |[![Supply_Chain_Manufacturing](images/manufactring.png)|
 
 > Now you can see both dashboards at a glance and click any image to enlarge.
 
@@ -47,6 +47,13 @@ The notebook contains step-by-step analysis including data loading, cleaning, fe
 - Implement cost reduction strategies  
 - Improve quality control for certain suppliers
 
+  
+## 💼 Business Impact
+This project helps:
+- Reduce operational costs
+- Improve supplier selection
+- Enhance product quality
+
 ## 🙍‍♂️ Author
-**Ahmed Wagdi**  
+**Ahmed Wagdy**  
 Data Analyst | Supply Chain Analysis
