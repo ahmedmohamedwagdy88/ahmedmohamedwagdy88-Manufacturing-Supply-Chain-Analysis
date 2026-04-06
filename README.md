@@ -30,12 +30,12 @@ This analysis includes:
 - Exploratory Data Analysis (EDA)  
 - Visual insights about supplier performance, cost, and quality  
 
-### 💡 Key Insights
-- **Supplier 4** leads performance but has **higher costs**  
-- **Supplier 3** exhibits **quality issues**  
-- Skincare products show **highest overall cost**  
-- **Cosmetics** category stands out as more **efficient** compared to others
-
+### 💡 Key Insights  
+- Supplier 4** has ~__% higher cost compared to others  
+- Supplier 3** shows ~__% defect rate (above average __%)  
+- [Skincare] contributes to ~__% of total cost  
+- [Cosmetics] is ~__% more efficient than others
+  
 ## 📄 Notebook & Case Study
 - **Notebook**: [Open Notebook](notebook/supply_chain_analysis_.ipynb)  
 - **Case Study PDF**: [View Case Study](Case_Study.pdf/Manufacturing_Case_Study.pdf)
