@@ -17,7 +17,7 @@ This project analyzes manufacturing and supply chain performance to identify ine
 
 ---
 ## 🔗 Analysis Notebook
-[Open Notebook](notebook/analysis.ipynb)
+[Open Notebook](notebook/supply_chain_analysis_.ipynb)
 ---
 ## 🔍 Key Insights
 - Supplier 4 leads but with higher cost
