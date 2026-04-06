@@ -20,7 +20,7 @@ Click on images to view full size:
 
 | Supply Chain Dashboard | Supply Chain Manufacturing |
 |-----------------------|---------------------------|
-| [![Supply Chain Dashboard](images/supply_chain_dashboard.png)](images/supply_chain_dashboard.png) | [![Supply Chain Manufacturing](dashborad.png/supply chain dash borad.png) |
+| [![Supply Chain Dashboard](images/supply_chain_dashboard.png)](images/supply_chain_dashboard.png) |[![Supply Chain Manufacturing](dashborad.png/supply chain dash borad.png)|
 
 > Now you can see both dashboards at a glance and click any image to enlarge.
 
