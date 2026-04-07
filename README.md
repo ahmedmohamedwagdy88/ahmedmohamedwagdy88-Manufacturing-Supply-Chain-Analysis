@@ -22,7 +22,7 @@ Click on images to view full size:
 |-----------------------|---------------------------|
 | [![Supply_Chain_Dashboard](images/supply_chain.png)](images/supply_chain.png) |[![Supply_Chain_Manufacturing](images/manufactring.png)|
 
-> Now you can see both dashboards at a glance and click any image to enlarge.
+
 
 ## 🔍 Analysis & Key Insights
 This analysis includes:
