@@ -61,3 +61,4 @@ This analysis can help businesses to:
 ## 🙍‍♂️ Author
 **Ahmed Wagdy**  
 Data Analyst | Supply Chain Analysis
+*Data Analyst* [LinkedIn Profile](https://www.linkedin.com/in/ahmed-wagdi-a02b5435b) | [Portfolio](https://github.com/ahmedmohamedwagdy88/Ahmed-Wagdi)
